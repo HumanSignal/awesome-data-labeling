@@ -40,6 +40,8 @@ A curated list of awesome data labeling tools
 
 * [Curve](https://github.com/baidu/Curve) - Curve is an open-source tool to help label anomalies on time-series data
 * [TagAnomaly](https://github.com/Microsoft/TagAnomaly) - Anomaly detection analysis and labeling tool, specifically for multiple time series (one time series per category)
+* [time-series-annotator](https://github.com/CrowdCurio/time-series-annotator) - The CrowdCurio Time Series Annotation Library implements classification tasks for time series.
+* [WDK](https://github.com/avenix/WDK) - The Wearables Development Toolkit (WDK) is a set of tools to facilitate the development of activity recognition applications with wearable devices.
 
 #### 3D
 
