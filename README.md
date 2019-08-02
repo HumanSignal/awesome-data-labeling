@@ -54,4 +54,4 @@ A curated list of awesome data labeling tools
 
 #### MultiDomain
 
-* [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a configurable data annotation tool that works with different data types
+* [Label Studio](https://github.com/heartexlabs/label-studio) - Label Studio is a configurable data annotation tool that works with different data types
