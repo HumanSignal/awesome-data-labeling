@@ -24,7 +24,7 @@ A curated list of awesome data labeling tools
 * [CATMAID](https://github.com/catmaid/CATMAID) - Collaborative Annotation Toolkit for Massive Amounts of Image Data
 
 #### Text
-
+* [YEDDA](https://github.com/jiesutd/YEDDA) - A Lightweight Collaborative Text Span Annotation Tool (Chunking, NER, etc.). ACL best demo nomination.
 * [ML-Annotate](https://github.com/planbrothers/ml-annotate) - Label text data for machine learning purposes. ML-Annotate supports binary, multi-label and multi-class labeling.
 * [TagEditor](https://github.com/d5555/TagEditor) - Annotation tool for spaCy
 
