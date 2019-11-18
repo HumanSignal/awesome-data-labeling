@@ -3,7 +3,7 @@
 A curated list of awesome data labeling tools
 
 #### Images
-
+* [lost](https://github.com/l3p-cv/lost) - Design your own smart Image Annotation process in a web-based environment
 * [labelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool and label object bounding boxes in images
 * [cvcat](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotion Tool
 * [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python
