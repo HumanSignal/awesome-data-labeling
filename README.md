@@ -35,6 +35,8 @@ A curated list of awesome data labeling tools
 * [EchoML](https://github.com/ritazh/EchoML) - Play, visualize, and annotate your audio files
 * [audio-annotator](https://github.com/CrowdCurio/audio-annotator) - A JavaScript interface for annotating and labeling audio files.
 * [audio-labeler](https://github.com/hipstas/audio-labeler) - An in-browser app for labeling audio clips at random, using Docker and Flask.
+* [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Simple annotations tool, check the example.
+* [peak.js](https://github.com/bbc/peaks.js) - Browser-based audio waveform visualisation and UI component for interacting with audio waveforms, developed by BBC UK.
 
 #### Video 
 
