@@ -23,6 +23,7 @@ A curated list of awesome data labeling tools
 * [Anno-Mage](https://github.com/virajmavani/semi-auto-image-annotation-tool) - A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations for 80 object classes using a pre-trained model
 * [CATMAID](https://github.com/catmaid/CATMAID) - Collaborative Annotation Toolkit for Massive Amounts of Image Data
 * [make-sense](https://github.com/SkalskiP/make-sense) - makesense.ai is a free to use online tool for labelling photos
+* [LOST](https://github.com/l3p-cv/lost) - Design your own smart Image Annotation process in a web-based environment
 
 #### Text
 * [YEDDA](https://github.com/jiesutd/YEDDA) - A Lightweight Collaborative Text Span Annotation Tool (Chunking, NER, etc.). ACL best demo nomination.
