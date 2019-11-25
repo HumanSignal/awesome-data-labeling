@@ -23,6 +23,7 @@ A curated list of awesome data labeling tools
 * [Anno-Mage](https://github.com/virajmavani/semi-auto-image-annotation-tool) - A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations for 80 object classes using a pre-trained model
 * [CATMAID](https://github.com/catmaid/CATMAID) - Collaborative Annotation Toolkit for Massive Amounts of Image Data
 * [make-sense](https://github.com/SkalskiP/make-sense) - makesense.ai is a free to use online tool for labelling photos
+* [LOST](https://github.com/l3p-cv/lost) - Design your own smart Image Annotation process in a web-based environment
 
 #### Text
 * [YEDDA](https://github.com/jiesutd/YEDDA) - A Lightweight Collaborative Text Span Annotation Tool (Chunking, NER, etc.). ACL best demo nomination.
@@ -35,6 +36,8 @@ A curated list of awesome data labeling tools
 * [EchoML](https://github.com/ritazh/EchoML) - Play, visualize, and annotate your audio files
 * [audio-annotator](https://github.com/CrowdCurio/audio-annotator) - A JavaScript interface for annotating and labeling audio files.
 * [audio-labeler](https://github.com/hipstas/audio-labeler) - An in-browser app for labeling audio clips at random, using Docker and Flask.
+* [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Simple annotations tool, check the example.
+* [peak.js](https://github.com/bbc/peaks.js) - Browser-based audio waveform visualisation and UI component for interacting with audio waveforms, developed by BBC UK.
 
 #### Video 
 
@@ -59,3 +62,4 @@ A curated list of awesome data labeling tools
 #### MultiDomain
 
 * [Label Studio](https://github.com/heartexlabs/label-studio) - Label Studio is a configurable data annotation tool that works with different data types
+* [Dataturks](https://dataturks.com/) - Dataturks support E2E tagging of data items like video, images (classification, segmentation and labelling) and text (full length document annotations for PDF, Doc, Text etc) for ML projects.
