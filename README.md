@@ -30,6 +30,7 @@ A curated list of awesome data labeling tools
 * [ML-Annotate](https://github.com/planbrothers/ml-annotate) - Label text data for machine learning purposes. ML-Annotate supports binary, multi-label and multi-class labeling.
 * [TagEditor](https://github.com/d5555/TagEditor) - Annotation tool for spaCy
 * [SMART](https://github.com/RTIInternational/SMART) - Smarter Manual Annotation for Resource-constrained collection of Training data
+* [docanno](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioner
 
 #### Audio
 
