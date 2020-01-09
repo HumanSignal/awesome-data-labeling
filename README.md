@@ -6,6 +6,7 @@ A curated list of awesome data labeling tools
 
 * [labelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool and label object bounding boxes in images
 * [CVAT](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotion Tool
+* [EVA](https://github.com/Ericsson/eva) - EVA is a web-based tool for efficient annotation of videos and image sequences and has an additional tracking capabilities.
 * [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python
 * [VoTT](https://github.com/microsoft/VoTT) - An open source annotation and labeling tool for image and video assets
 * [imglab](https://github.com/NaturalIntelligence/imglab) - A web based tool to label images for objects that can be used to train dlib or other object detectors
