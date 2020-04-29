@@ -24,6 +24,9 @@ A curated list of awesome data labeling tools
 * [CATMAID](https://github.com/catmaid/CATMAID) - Collaborative Annotation Toolkit for Massive Amounts of Image Data
 * [make-sense](https://github.com/SkalskiP/make-sense) - makesense.ai is a free to use online tool for labelling photos
 * [LOST](https://github.com/l3p-cv/lost) - Design your own smart Image Annotation process in a web-based environment
+* [Annotorious](https://github.com/recogito/annotorious) - A JavaScript library for image annotation.
+* [Sloth](https://github.com/cvhciKIT/sloth) - Tool for labeling image and video data for computer vision research.
+
 
 #### Text
 * [YEDDA](https://github.com/jiesutd/YEDDA) - A Lightweight Collaborative Text Span Annotation Tool (Chunking, NER, etc.). ACL best demo nomination.
@@ -38,6 +41,8 @@ A curated list of awesome data labeling tools
 * [audio-labeler](https://github.com/hipstas/audio-labeler) - An in-browser app for labeling audio clips at random, using Docker and Flask.
 * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Simple annotations tool, check the example.
 * [peak.js](https://github.com/bbc/peaks.js) - Browser-based audio waveform visualisation and UI component for interacting with audio waveforms, developed by BBC UK.
+* [Praat](https://github.com/praat/praat) - Doing Phonetics By Computer
+* [Aubio](https://aubio.org/) - Tool designed for the extraction of annotations from audio signals.
 
 #### Video 
 
