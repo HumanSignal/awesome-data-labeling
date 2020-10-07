@@ -26,6 +26,7 @@ A curated list of awesome data labeling tools
 * [LOST](https://github.com/l3p-cv/lost) - Design your own smart Image Annotation process in a web-based environment
 * [Annotorious](https://github.com/recogito/annotorious) - A JavaScript library for image annotation.
 * [Sloth](https://github.com/cvhciKIT/sloth) - Tool for labeling image and video data for computer vision research.
+* [Bounding Box Editor](https://github.com/mfl28/BoundingBoxEditor) - A multi-platform JavaFX image annotation application to create and edit ground-truth labels for object detection and segmentation models.
 
 
 #### Text
