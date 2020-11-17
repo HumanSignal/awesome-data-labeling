@@ -36,6 +36,8 @@ A curated list of awesome data labeling tools
 
 #### Audio
 
+
+* [audino](https://github.com/midas-research/audino) - An open source browser-based audio annotation tool for humans™.
 * [EchoML](https://github.com/ritazh/EchoML) - Play, visualize, and annotate your audio files
 * [audio-annotator](https://github.com/CrowdCurio/audio-annotator) - A JavaScript interface for annotating and labeling audio files.
 * [audio-labeler](https://github.com/hipstas/audio-labeler) - An in-browser app for labeling audio clips at random, using Docker and Flask.
