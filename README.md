@@ -60,6 +60,7 @@ A curated list of awesome data labeling tools
 #### 3D
 
 * [KNOSSOS](https://github.com/knossos-project/knossos) - KNOSSOS is a software tool for the visualization and annotation of 3D image data and was developed for the rapid reconstruction of neural morphology and connectivity.
+* [MONAI Label](https://github.com/Project-MONAI/MONAILabel) - MONAI Label is a server-client system that facilitates interactive medical image annotation by using AI. It is an open-source and easy-to-install ecosystem that can run locally on a machine with one or two GPUs. Both server and client work on the same/different machine. However, initial support for multiple users is restricted. It shares the same principles with [MONAI](https://github.com/Project-MONAI/MONAI) 
 
 #### Lidar
 
