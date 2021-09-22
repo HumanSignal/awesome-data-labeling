@@ -26,6 +26,7 @@ A curated list of awesome data labeling tools
 * [LOST](https://github.com/l3p-cv/lost) - Design your own smart Image Annotation process in a web-based environment
 * [Annotorious](https://github.com/recogito/annotorious) - A JavaScript library for image annotation.
 * [Sloth](https://github.com/cvhciKIT/sloth) - Tool for labeling image and video data for computer vision research.
+* [RootPainter](https://github.com/Abe404/root_painter) - Tool for rapid model training with corrective annotation, enables fully automatic or semi-automatic segmentation.
 
 
 #### Text
@@ -60,6 +61,8 @@ A curated list of awesome data labeling tools
 #### 3D
 
 * [KNOSSOS](https://github.com/knossos-project/knossos) - KNOSSOS is a software tool for the visualization and annotation of 3D image data and was developed for the rapid reconstruction of neural morphology and connectivity.
+
+* [RootPainter3D](https://github.com/Abe404/RootPainter3D) - Interactive-Machine-Learning tool that enables rapid segmentation of 3D images such as X-ray CT with corrective annotation.
 
 #### Lidar
 
