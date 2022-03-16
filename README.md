@@ -4,6 +4,7 @@ A curated list of awesome data labeling tools
 
 #### Images
 
+* [TrainingSet.AI](https://dashboard.trainingset.ai/) - TrainingSet.AI is a platform for image annotation to label object point, lines, bounding boxes,polygon and instance segmentation and cuboid in images and lidar scenes
 * [labelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool and label object bounding boxes in images
 * [CVAT](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotion Tool
 * [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python
