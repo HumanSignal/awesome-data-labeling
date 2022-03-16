@@ -33,7 +33,8 @@ A curated list of awesome data labeling tools
 * [ML-Annotate](https://github.com/planbrothers/ml-annotate) - Label text data for machine learning purposes. ML-Annotate supports binary, multi-label and multi-class labeling.
 * [TagEditor](https://github.com/d5555/TagEditor) - Annotation tool for spaCy
 * [SMART](https://github.com/RTIInternational/SMART) - Smarter Manual Annotation for Resource-constrained collection of Training data
-* [PIAF](https://github.com/etalab/piaf) - A Question-Answering annotation tool
+* [PIAF](https://github.com/etalab/piaf) - A Question-Answering annotation tool 
+* [HumanFirst](https://www.humanfirst.ai) - Excel for Natural Language Data: a complete productivity suite to transform unstructured text and conversational data into AI training data
 
 #### Audio
 
