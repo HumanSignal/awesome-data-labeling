@@ -70,3 +70,4 @@ A curated list of awesome data labeling tools
 
 * [Label Studio](https://github.com/heartexlabs/label-studio) - Label Studio is a configurable data annotation tool that works with different data types
 * [Dataturks](https://dataturks.com/) - Dataturks support E2E tagging of data items like video, images (classification, segmentation and labelling) and text (full length document annotations for PDF, Doc, Text etc) for ML projects.
+* [Toloka-Kit](https://github.com/Toloka/toloka-kit) - Toloka-Kit is a Python library for interacting with [Toloka crowdsourcing platform](https://toloka.ai/)
