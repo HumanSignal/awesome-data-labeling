@@ -4,6 +4,7 @@ A curated list of awesome data labeling tools
 
 #### Images
 
+* [Roboflow Annotate](https://roboflow.com/annotate) - free Computer Vision annotation tool with team workflow management, model-assisted labeling, semantic image search, and export to many dataset formats.
 * [labelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool and label object bounding boxes in images
 * [CVAT](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotion Tool
 * [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python
