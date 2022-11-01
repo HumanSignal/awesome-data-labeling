@@ -34,6 +34,7 @@ A curated list of awesome data labeling tools
 * [TagEditor](https://github.com/d5555/TagEditor) - Annotation tool for spaCy
 * [SMART](https://github.com/RTIInternational/SMART) - Smarter Manual Annotation for Resource-constrained collection of Training data
 * [PIAF](https://github.com/etalab/piaf) - A Question-Answering annotation tool
+* [Doccano](https://github.com/doccano/doccano) - doccano is an open source text annotation tool which provides annotation features for text classification, sequence labeling and sequence to sequence tasks
 
 #### Audio
 
