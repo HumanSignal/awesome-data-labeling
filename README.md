@@ -70,3 +70,7 @@ A curated list of awesome data labeling tools
 
 * [Label Studio](https://github.com/heartexlabs/label-studio) - Label Studio is a configurable data annotation tool that works with different data types
 * [Dataturks](https://dataturks.com/) - Dataturks support E2E tagging of data items like video, images (classification, segmentation and labelling) and text (full length document annotations for PDF, Doc, Text etc) for ML projects.
+
+#### Search
+
+* [Quepid](https://github.com/o19s/quepid) - Give your queries some love by labeling them!  Also provides a safe space for playing with your search algorithem and measures search quality using classic IR metrics like nDCG.
