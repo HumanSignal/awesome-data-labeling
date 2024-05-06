@@ -65,6 +65,7 @@ A curated list of awesome data labeling tools
 #### Lidar
 
 * [semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Web labelling tool for camera and LIDAR data
+* [Segments.ai](https://segments.ai/) - The multi-sensor labeling platform for robotics and autonomous vehicles. Label multi-modal data such as lidar and images in a single interface.
 
 #### MultiDomain
 
