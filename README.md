@@ -26,7 +26,7 @@ A curated list of awesome data labeling tools
 * [LOST](https://github.com/l3p-cv/lost) - Design your own smart Image Annotation process in a web-based environment
 * [Annotorious](https://github.com/recogito/annotorious) - A JavaScript library for image annotation.
 * [Sloth](https://github.com/cvhciKIT/sloth) - Tool for labeling image and video data for computer vision research.
-
+* [T-Rex Label](https://trexlabel.com/)  - T-Rex Label is an intelligent tool designed for annotating complex scenarios.
 
 #### Text
 * [YEDDA](https://github.com/jiesutd/YEDDA) - A Lightweight Collaborative Text Span Annotation Tool (Chunking, NER, etc.). ACL best demo nomination.
