@@ -26,6 +26,7 @@ A curated list of awesome data labeling tools
 * [LOST](https://github.com/l3p-cv/lost) - Design your own smart Image Annotation process in a web-based environment
 * [Annotorious](https://github.com/recogito/annotorious) - A JavaScript library for image annotation.
 * [Sloth](https://github.com/cvhciKIT/sloth) - Tool for labeling image and video data for computer vision research.
+* [LightlyStudio](https://github.com/lightly-ai/lightly-studio) - An open source tool to curate, annotate, and manage vision datasets (images and videos). Supports embedding-based auto-selection, annotation, and auto-labeling for bounding boxes, segmentation, and captions.
 
 
 #### Text
