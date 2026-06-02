@@ -4,6 +4,7 @@ A curated list of awesome data labeling tools
 
 #### Images
 
+* [BIIGLE](https://github.com/biigle/biigle) - BIIGLE is an open source web application for the efficient and rapid annotation of still images and videos.
 * [labelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool and label object bounding boxes in images
 * [CVAT](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotion Tool
 * [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python
@@ -47,6 +48,7 @@ A curated list of awesome data labeling tools
 
 #### Video 
 
+* [BIIGLE](https://github.com/biigle/biigle) - BIIGLE is an open source web application for the efficient and rapid annotation of still images and videos.
 * [UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) - A multi-purpose Video Labeling GUI in Python with integrated SOTA detector and tracker
 * [VATIC](https://github.com/cvondrick/vatic) - VATIC is an online video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk.
 
