@@ -35,6 +35,8 @@ A curated list of awesome data labeling tools
 * [SMART](https://github.com/RTIInternational/SMART) - Smarter Manual Annotation for Resource-constrained collection of Training data
 * [PIAF](https://github.com/etalab/piaf) - A Question-Answering annotation tool
 
+* [Vobo](https://github.com/getbeton/vobo) - Human review for AI-generated text. Anchored comments and a hashed evidence chain.
+
 #### Audio
 
 * [EchoML](https://github.com/ritazh/EchoML) - Play, visualize, and annotate your audio files
